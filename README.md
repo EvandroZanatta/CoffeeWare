@@ -5,7 +5,7 @@
 A licença CoffeeWare baseia-se na licença "THE BEER-WARE LICENSE", criada por Poul-Henning Kamp.
 
 ### Uma opção a licença BeerWare
-CoffeeWare é uma opção da licença BeerWare para pessoas que não apreciam cervejas ou que preferem um café em troca.
+CoffeeWare é uma opção da licença BeerWare para pessoas que não apreciam cerveja ou que preferem café em troca.
 
 ## A licença CoffeeWare
 ```
