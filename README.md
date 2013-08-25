@@ -9,8 +9,18 @@ CoffeeWare é uma opção da licença BeerWare para pessoas que não apreciam ce
 
 ## A licença CoffeeWare
 ```
+Autor:
+Evandro Zanatta
+
+Revisores:
+Pablo Forato(Revisão 1)
+Karin Foja(Revisão 1)
+
 Este arquivo está sobre a licença CoffeeWare.
-Você pode usar este arquivo como quiser, seja para fins pessoais, acadêmico ou comercial.
-Pode modifica-lo, incrementar ou decrementar linhas.
-Em troca de, se um dia nos encontrarmos, você poderá me pagar um café.
+Você pode usar este arquivo como quiser, seja para fins pessoais, acadêmicos ou comerciais.
+Pode modificar, incrementar ou decrementar linhas.
+Em troca de, se um dia nos encontrarmos, você poderá me pagar um café(ou mais de um).
+
+Mais informações:
+http://evandrozanatta.github.io/CoffeeWare/
 ```
