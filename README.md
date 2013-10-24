@@ -14,14 +14,15 @@ Evandro Zanatta
 ***
 
 Revisores:
-* Pablo Forato(Revisão 1)
-* Karin Foja(Revisão 1)
+* Pablo Forato (Revisão 1)
+* Karin Foja (Revisão 1)
 * Evandro Zanatta (Revisão 2)
+* Cesar Ferraz (Revisão 3)
 
 ***
 Licença:
-* Este arquivo está sobre a licença CoffeeWare.
-* Você pode usar este arquivo como quiser, seja para fins pessoais e acadêmicos.
+* Este arquivo está sob a licença CoffeeWare.
+* Você pode usar este arquivo como quiser, seja para fins pessoais ou acadêmicos.
 * Também pode ser usado para fins comercias, desde que:
  1. A licença continue sendo CoffeeWare.
  2. O código seja open source.
