@@ -17,7 +17,8 @@ Pablo Forato(Revisão 1)
 Karin Foja(Revisão 1)
 
 Este arquivo está sobre a licença CoffeeWare.
-Você pode usar este arquivo como quiser, seja para fins pessoais, acadêmicos ou comerciais.
+Você pode usar este arquivo como quiser, seja para fins pessoais e acadêmicos. 
+Também pode ser usado para fins comercias, desde que, aa licença seja CoffeeWare e o código seja open source.
 Pode modificar, incrementar ou decrementar linhas.
 Em troca de, se um dia nos encontrarmos, você poderá me pagar um café(ou mais de um).
 
