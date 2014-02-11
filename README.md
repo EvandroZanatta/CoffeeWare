@@ -18,17 +18,19 @@ Revisores:
 * Karin Foja (Revisão 1)
 * Evandro Zanatta (Revisão 2)
 * Cesar Ferraz (Revisão 3)
+* Evandro Zanatta (Revisão 4)
 
 ***
 Licença:
 * Este arquivo está sob a licença CoffeeWare.
 * Você pode usar este arquivo como quiser, seja para fins pessoais ou acadêmicos.
+
 * Também pode ser usado para fins comercias, desde que:
  1. A licença continue sendo CoffeeWare.
  2. O código seja open source.
  3. E o serviço seja disponibilizado gratuitamente.
 
-* Pode modificar, incrementar ou decrementar linhas.
+* Poderá modificar, incrementar ou decrementar linhas.
 * Em troca de, se um dia nos encontrarmos, você poderá me pagar um café(ou mais de um).
 
 Mais informações:
