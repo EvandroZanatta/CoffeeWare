@@ -31,7 +31,7 @@ Licença:
  2. O código seja Open-Source.
  3. E o serviço seja disponibilizado gratuitamente ou possua um plano gratuito.
 
-* Você poderá modificar, incrementar ou decrementar {{linhas|funções|modulos}} de {{arquivo|projeto|site|programa}}.
+* Você poderá modificar, incrementar ou decrementar {{linhas|funções|modulos}} desse {{arquivo|projeto|site|programa}}.
 * Em troca de, se um dia nos encontrarmos, você poderá me pagar um café(ou mais de um).
 
 Mais informações:
